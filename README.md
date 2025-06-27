@@ -8,7 +8,40 @@
 
 ###
 
-<p align="left">Hi, I'm a Full-Stack Developer with a strong passion for building clean, efficient, and user-centric web applications. I specialize in modern JavaScript technologies and am actively expanding my skill set to cover both frontend and backend development.<br><br>On the frontend, I primarily work with React, TypeScript, and Next.js, allowing me to build fast, responsive, and SEO-friendly interfaces with ease. I enjoy creating interactive UI components, managing state effectively, and ensuring great user experience through well-structured and maintainable code.<br><br>On the backend, I’ve been working with Node.js and Express.js to develop RESTful APIs and scalable services. I'm currently diving deeper into NestJS, exploring its powerful dependency injection system, modular architecture, and its alignment with enterprise-level backend design patterns.<br><br>Beyond that, I’m familiar with:<br><br>MongoDB for data modeling and database interactions<br><br>Git/GitHub for version control and collaboration<br><br>API development (REST, basic authentication, request validation)<br><br>Fundamental concepts like MVC architecture, middleware, and error handling<br><br>I'm a strong believer in continuous learning and improvement. My goal is to become a well-rounded developer who can confidently handle everything from designing the database schema, writing performant backend logic, to delivering polished frontend interfaces.<br><br>I’m also exploring testing, CI/CD, and cloud technologies (e.g., AWS) as I aim to become a truly production-ready full-stack engineer.<br><br>If you're working on exciting projects or have a tech topic to discuss, feel free to connect — I’m always up for learning and sharing knowledge with the community!</p>
+<p align="left">🌐 Full-Stack Developer → Future Data Engineer | Learning-Driven | Tech Enthusiast
+
+Hi, I’m a Full-Stack Developer actively transitioning into the data-driven tech landscape. With a strong foundation in modern JavaScript technologies, I'm now expanding into areas like data engineering, machine learning, and cloud infrastructure — preparing for the next wave of high-impact innovation.
+
+💻 Full-Stack Foundations:
+Frontend: React, TypeScript, Next.js
+→ Building responsive, SEO-friendly, and user-centric interfaces.
+
+Backend: Node.js, Express.js, currently learning NestJS
+→ Creating scalable RESTful APIs with solid architectural principles.
+
+🛠️ Core Skills:
+Git/GitHub for version control and team workflows
+
+MongoDB for document-based data modeling
+
+REST API design, request validation, and authentication
+
+MVC architecture, middleware, and robust error handling
+
+📈 Now Focusing On:
+Data Engineering: ETL workflows, databases, data modeling
+
+Cloud: Learning AWS (S3, Lambda, EC2, RDS) & CI/CD fundamentals
+
+Machine Learning (ML): Building a foundation in Python & ML workflows
+
+Testing & Reliability: Writing testable code, integrating automated testing
+
+I believe in lifelong learning and growing into a developer who can handle the full product lifecycle — from backend logic to frontend design, and from database engineering to cloud deployment and data analytics.
+
+If you’re into building scalable systems, love talking about tech, or working on projects involving data, ML, or modern architecture, I’d love to connect and share insights!
+
+</p>
 
 ###
 
