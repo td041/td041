@@ -8,44 +8,11 @@
 
 ###
 
-<p align="left">🌐 Full-Stack Developer → Future Data Engineer | Learning-Driven | Tech Enthusiast
-
-Hi, I’m a Full-Stack Developer actively transitioning into the data-driven tech landscape. With a strong foundation in modern JavaScript technologies, I'm now expanding into areas like data engineering, machine learning, and cloud infrastructure — preparing for the next wave of high-impact innovation.
-
-💻 Full-Stack Foundations:
-Frontend: React, TypeScript, Next.js
-→ Building responsive, SEO-friendly, and user-centric interfaces.
-
-Backend: Node.js, Express.js, currently learning NestJS
-→ Creating scalable RESTful APIs with solid architectural principles.
-
-🛠️ Core Skills:
-Git/GitHub for version control and team workflows
-
-MongoDB for document-based data modeling
-
-REST API design, request validation, and authentication
-
-MVC architecture, middleware, and robust error handling
-
-📈 Now Focusing On:
-Data Engineering: ETL workflows, databases, data modeling
-
-Cloud: Learning AWS (S3, Lambda, EC2, RDS) & CI/CD fundamentals
-
-Machine Learning (ML): Building a foundation in Python & ML workflows
-
-Testing & Reliability: Writing testable code, integrating automated testing
-
-I believe in lifelong learning and growing into a developer who can handle the full product lifecycle — from backend logic to frontend design, and from database engineering to cloud deployment and data analytics.
-
-If you’re into building scalable systems, love talking about tech, or working on projects involving data, ML, or modern architecture, I’d love to connect and share insights!
-
-</p>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
-<h3 align="left">💻 Tech Stack:</h3>
+<p align="left">Hi, I’m a Full-Stack Developer actively transitioning into the data-driven tech landscape. With a strong foundation in modern JavaScript technologies, I'm now expanding into areas like data engineering, machine learning, and cloud infrastructure — preparing for the next wave of high-impact innovation.<br><br>💻 Full-Stack Foundations:<br>Frontend: React, TypeScript, Next.js<br>→ Building responsive, SEO-friendly, and user-centric interfaces.<br><br>Backend: Node.js, Express.js, currently learning NestJS<br>→ Creating scalable RESTful APIs with solid architectural principles.<br><br>🛠️ Core Skills:<br>Git/GitHub for version control and team workflows<br><br>MongoDB for document-based data modeling<br><br>REST API design, request validation, and authentication<br><br>MVC architecture, middleware, and robust error handling<br><br>📈 Now Focusing On:<br>Data Engineering: ETL workflows, databases, data modeling<br><br>Cloud: Learning AWS (S3, Lambda, EC2, RDS) & CI/CD fundamentals<br><br>Machine Learning (ML): Building a foundation in Python & ML workflows<br><br>Testing & Reliability: Writing testable code, integrating automated testing<br><br>I believe in lifelong learning and growing into a developer who can handle the full product lifecycle — from backend logic to frontend design, and from database engineering to cloud deployment and data analytics.<br><br>If you’re into building scalable systems, love talking about tech, or working on projects involving data, ML, or modern architecture, I’d love to connect and share insights!</p>
 
 ###
 
@@ -71,6 +38,16 @@ If you’re into building scalable systems, love talking about tech, or working 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
 
 ###
