@@ -39,10 +39,8 @@
 
   <hr style="border:none; border-top:1px solid #eee; margin:18px 0;" />
 
-  <h3 style="margin-bottom:12px;">🔥 My Stats</h3>
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=td041&theme=dark&hide_border=false)
 
-  <div style="text-align:center; margin-bottom:18px;">
-    <img src="https://streak-stats.demolab.com?user=td041&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  </div>
 
 </div>
