@@ -2,7 +2,11 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<br><h3 align="left">Hi 👋 I’m Đức<br><br>Backend-leaning developer from Viet Nam with solid frontend roots (React, TypeScript, Next.js).<br><br>Doubling down on Go & microservices: clear service boundaries, clean data contracts, async messaging (Kafka/RabbitMQ), observability (logs/metrics/traces), and CI/CD.<br><br>I value maintainable code, robust auth/validation, and disciplined Git/GitHub workflows.<br><br>Outside projects, I practice LeetCode daily and improve my English for clearer collaboration and documentation.<br><br>My goal: steady, compounding growth—shipping reliable services and ultimately building low-latency, highly scalable, resilient, and observable systems that are secure by default, cost-conscious, and deliver real business impact!</h3></br>
+<br><h3 align="left">Hi 👋 I’m Đức — a developer from Vietnam with experience in both frontend and backend development.
+I started with frontend technologies like React, TypeScript, and Next.js, then expanded into backend development using NestJS, Node.js, and Go.
+
+I enjoy designing clean, maintainable systems and understanding how different parts of an application connect — from the interface to the infrastructure.
+Now, I’m focusing on learning Artificial Intelligence, including machine learning, deep learning, and other intelligent system techniques to build smarter, more efficient, and impactful applications.</h3></br>
 
 
 
