@@ -14,23 +14,40 @@ Now, I’m focusing on learning Artificial Intelligence, including machine learn
 
 ###
 
-  <h3 style="margin-bottom:12px;">🛠 Language and tools</h3>
+<h3 style="margin-bottom:18px; font-size:1.5em;">Programming language</h3>
+<div style="display:flex; gap:18px; align-items:center; margin-bottom:36px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />
+</div>
 
-  <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-bottom:18px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql" />
-  </div>
-  
+<h3 style="margin-bottom:18px; font-size:1.5em;">Frameworks and Libraries</h3>
+<div style="display:flex; gap:18px; align-items:center; margin-bottom:36px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="42" alt="nestjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="42" alt="graphql" />
+</div>
+
+<h3 style="margin-bottom:18px; font-size:1.5em;">AI</h3>
+<div style="display:flex; gap:18px; align-items:center; margin-bottom:36px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="42" alt="opencv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="fastapi" />
+</div>
+
+<h3 style="margin-bottom:18px; font-size:1.5em;">Tools</h3>
+<div style="display:flex; gap:18px; align-items:center; margin-bottom:36px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" />
+  <img src="https://camo.githubusercontent.com/add853222718198cd843dd7d11d3318ed61ea8b4c3f721f30b101d4ed08ba165/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7562756e74752f7562756e74752d69636f6e2e737667" height="42" alt="ubuntu" />
+</div>
+
 <br></br>
 
   <div style="display:flex; gap:10px; align-items:center; margin-bottom:18px;">
@@ -39,13 +56,7 @@ Now, I’m focusing on learning Artificial Intelligence, including machine learn
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </div>
 
-
-
-
 <br></br>
-
-
-
   
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=td041&theme=dark&hide_border=false)
