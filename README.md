@@ -6,7 +6,7 @@
 I started with frontend technologies like React, TypeScript, and Next.js, then expanded into backend development using NestJS, Node.js, and Go.
 
 I enjoy designing clean, maintainable systems and understanding how different parts of an application connect — from the interface to the infrastructure.
-Now, I’m focusing on learning Artificial Intelligence, including machine learning, deep learning, and other intelligent system techniques to build smarter, more efficient, and impactful applications</h3></br>
+Now, I’m focusing on learning Artificial Intelligence, including machine learning, deep learning, and other intelligent system techniques to build smarter, more efficient, and impactful application!</h3></br>
 
 
 
